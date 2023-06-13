@@ -477,6 +477,7 @@ border-color: var(--main-color);
 /* start video */
 .video{
     position: relative;
+    background-imge:url(../image/casper.jpeg);
 }
 .video::before{
     content: '';
