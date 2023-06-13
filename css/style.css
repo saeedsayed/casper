@@ -6,7 +6,7 @@
     --pararaf-color: #777;
 }
 /* end variablss */
-/* start globثl rules */
+/* start global rules */
 *{
     box-sizing: border-box;
     padding: 0;
@@ -477,7 +477,6 @@ border-color: var(--main-color);
 /* start video */
 .video{
     position: relative;
-    background-imge:url(../image/casper.jpeg);
 }
 .video::before{
     content: '';
